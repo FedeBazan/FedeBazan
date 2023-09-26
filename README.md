@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src='https://i.imgflip.com/7jf13d.jpg' width="600">
-</div>
-<h1 align="center">😄Welcome to my cave😄</h1>
-<h3 align="center">Hola, mi nombre es Fede y soy un apasionado de la programación. Actualmente me encuentro estudiando en el Informatorio ofrecido por la provincia de Chaco, pero ya cuento con conocimientos en lenguajes como JavaScript y Java, en donde me especialicé en la rama de QA como QA Test Automation Engineer. En este Git iré subiendo mi recorrido por el Informatorio mientras estudio Python, que es totalmente nuevo para mí.<br><br>Hi, my name is Fede and I am passionate about programming. Currently, I am studying at the Informatorio offered by the province of Chaco, but I already have knowledge in languages such as JavaScript and Java, where I specialized in the QA field as a QA Test Automation Engineer. In this Git, I will be uploading my progress through the Informatorio while studying Python ¡C'Ya!</h3>
 
 <!--
 **FedeBazan/FedeBazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
