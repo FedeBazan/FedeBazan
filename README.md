@@ -75,6 +75,7 @@ Mi objetivo principal es aplicar mis habilidades de QA Manual en un entorno prof
 ## Contacto
 
 - LinkedIn: <a href="https://www.linkedin.com/in/julio-bazan-6ba406212/">Bazan Julio</a>
+- Portafolio: <a href="https://sites.google.com/view/bazanjuliopablofederico/página-principal">Google Sites - Portafolio QA</a>
 
 ## ¿Quieres saber más?
 
