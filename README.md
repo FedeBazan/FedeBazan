@@ -64,7 +64,8 @@ Actualmente, estoy enfocado en el QA Manual,pero estoy en proceso de convertirme
 
 ## Proyectos de Estudio
 
-### (Estamos Trabajando....)
+### ![scorpionContinuamosTrabajando](https://github.com/FedeBazan/FedeBazan/assets/48597230/b608d2b2-7666-4e77-9107-2d3a4710a1a0)
+
 
 <!--Breve descripción del proyecto de estudio, tecnologías utilizadas y aprendizajes obtenidos.-->
 
